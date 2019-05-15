@@ -9,4 +9,4 @@ Transpiler for creating aql queries from csv files.
 
 **outputPath:** File path where the transpilation will occur. If it is not indicated the file will be named as sourcepath with a ".aql" at the end.
 
-**collectionName:** It is the collection where data is going to put into.
+**collectionName:** It is the collection where data is going to put into. If it is not indicated the collection would be "defaultCollection"
