@@ -1,5 +1,5 @@
 # csv2aql
-Transpiler for creating aql queries from csv files.
+Transpiler for creating AQL (Arango Queries Language) queries from csv files.
 
 ## How to use it
 
